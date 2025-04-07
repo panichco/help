@@ -1,8 +1,8 @@
-
+npm start
 
 https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#markdown-front-matter
 
-
+http://localhost:3000/manual/rules-of-writing/
 
 # Website
 
