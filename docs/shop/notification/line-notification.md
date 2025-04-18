@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
-title: แจ้งเตือนผ่านบัญชีไลน์
+title: แจ้งเตือนผ่านบัญชีไลน์ (LINE Notification)
 last_update:
-  date: 2025-04-04
+  date: 2025-04-07
 ---
 
 :::info
@@ -27,9 +27,6 @@ An upcoming new version will be released soon
 ตั้งค่ารับการแจ้งเตือนที่ [การแจ้งเตือน (Shop Notification)](/shop/notification/shop-notification.md)
 
 :::info
-สามารถเชื่อมต่อบัญชี LINE ได้หลายบัญชี / ร้านค้า
-:::
-
-:::warning
-ยังไม่สามารถเชื่อมต่อกับบัญชี LINE Official หรือ ไลน์แบบกลุ่ม
+- สามารถเชื่อมต่อบัญชี LINE ได้หลายบัญชี / ร้านค้า
+- ยังไม่สามารถเชื่อมต่อกับบัญชี LINE Official หรือ ไลน์แบบกลุ่ม
 :::

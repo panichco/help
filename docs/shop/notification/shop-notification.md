@@ -1,15 +1,15 @@
 ---
 sidebar_position: 1
-title: การแจ้งเตือน
+title: แจ้งเตือนร้านค้า (Shop Notification)
 last_update:
-  date: 2025-04-04
+  date: 2025-04-07
 ---
 
 :::info
 An upcoming new version will be released soon
 :::
 
-รับการแจ้งเตือนต่าง ๆ ผ่าน Email และ บัญชี LINE
+**รับการแจ้งเตือนต่าง ๆ ผ่าน Email และ บัญชี LINE**
 
 :::important
 การแจ้งเตือนผ่านบัญชี LINE จะต้องเชื่อมต่อบัญชีไลน์ของพนักงานร้านค้าเข้ากับระบบก่อน
@@ -20,16 +20,12 @@ An upcoming new version will be released soon
 - เลือก Setting > เลือก Shop Notification > เลือก ร้านค้า
 
 ## Email
-
-เปิดใช้งานที่ Email Enable
-
-ใน Email List > เลือก Add Row > พิมพ์ Email > เลือก Save
+- เปิดใช้งานที่ Email Enable
+- ใน Email List > เลือก Add Row > พิมพ์ Email > เลือก Save
 
 ## LINE app
-
-เปิดใช้งานที่ Line Enable
-
-ใน Line User > เลือก Add Row > เลือกบัญชีไลน์ที่ต้องการ > เลือก Save
+- เปิดใช้งานที่ Line Enable
+- ใน Line User > เลือก Add Row > เลือกบัญชีไลน์ที่ต้องการ > เลือก Save
 
 ### สรุปออเดอร์รายวัน (Daily Order Summary)
 การแจ้งสรุปออเดอร์รายวัน คือ การสรุปจำนวนคำสั่งซื้อที่ค้างส่งสะสม (ถ้ามี) โดยจะแจ้งเตือน ทุกวัน ในเวลา 8:00 น.
@@ -40,5 +36,4 @@ An upcoming new version will be released soon
 ### แจ้งเตือนการจ่ายเงินร้านค้า (Payment Notification)
 การแจ้งเตือนการจ่ายเงินร้านค้า คือ การแจ้งเตือนเมื่อระบบตัดยอด  และทำรายการโอนเงินล่วงหน้าเข้าบัญชีธนาคารของร้านค้า 
 
-อ่านเพิ่มเติม [[ถอนเงินอัตโนมัติ (Seller Earning Withdraw - Auto)]]
 

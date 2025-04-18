@@ -1,4 +1,4 @@
-position: 1
-label: 'คำสั่งซื้อ'
+position: 2
+label: 'คำสั่งซื้อ (Order)'
 collapsible: true
 collapsed: false

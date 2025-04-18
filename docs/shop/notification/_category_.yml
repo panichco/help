@@ -1,4 +1,4 @@
-position: 1
-label: 'การแจ้งเตือน'
+position: 2
+label: 'การแจ้งเตือน (Notification)'
 collapsible: true
 collapsed: false

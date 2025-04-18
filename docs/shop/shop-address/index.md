@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
-title: ที่อยู่ร้านค้า
+sidebar_position: 4
+title: ที่อยู่ร้านค้า (Shop Address)
 last_update:
-  date: 2025-04-04
+  date: 2025-04-07
 ---
 
 
@@ -21,8 +21,7 @@ last_update:
 - เพิ่มรายละเอียดต่าง ๆ  > เลือก Save
 
 หากใช้ที่อยู่เดียวกันสำหรับออกใบเสร็จ/ใบกำกับภาษา 
-
-เลือก Is Billing Address > เพิ่มรายละเอียดชื่อ สาขา เลขประจำตัวผู้เสียภาษี  > เลือก Save
+- เลือก Is Billing Address > เพิ่มรายละเอียดชื่อ สาขา เลขประจำตัวผู้เสียภาษี  > เลือก Save
 
 กลับไปที่หน้าร้าน Shop ที่หัวข้อ **Shop Address** ตรวจสอบว่า Warehouse Address และ Billing Address (ถ้ามี) ถูกเพิ่มในระบบ และถูกเลือกอยู่ > Save
 
