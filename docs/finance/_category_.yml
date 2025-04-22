@@ -1,5 +1,4 @@
 position: 7
-label: 'การเงิน (Finance)'
+label: "การเงิน (Finance)"
 collapsible: true
-collapsed: false
-
+collapsed: true

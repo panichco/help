@@ -1,4 +1,4 @@
 position: 5
-label: 'รีวิว (Reviews)'
+label: "รีวิว (Reviews)"
 collapsible: true
-collapsed: false
+collapsed: true
