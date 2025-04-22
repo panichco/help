@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: แจ้งเตือนร้านค้า (Shop Notification)
 last_update:
-  date: 2025-04-07
+  date: 2025-04-22
 ---
 
 :::info
@@ -16,7 +16,7 @@ An upcoming new version will be released soon
 [แจ้งเตือนผ่านบัญชีไลน์ (LINE Notification)](/shop/notification/line-notification.md)
 :::
 
-- เข้าสู่ [Seller Center](https://seller.cafn.co) > ล็อกอินด้วยบัญชีร้านค้าของคุณ 
+- เข้าสู่ [Seller Center](https://office.panich.co) > ล็อกอินด้วยบัญชีร้านค้าของคุณ 
 - เลือก Setting > เลือก Shop Notification > เลือก ร้านค้า
 
 ## Email

@@ -3,7 +3,7 @@ sidebar_position: 3
 slug: discount-coupon
 title: คูปองส่วนลดร้านค้า (Discount Coupon)
 last_update:
-  date: 2025-04-07
+  date: 2025-04-22
 ---
 
 :::info
@@ -12,7 +12,7 @@ An upcoming new version will be released soon
 
 **คูปองส่วนลดร้านค้า คือ โค้ดลดราคาที่ออกให้ลูกค้าเพื่อทำการตลาด โดยร้านค้าเป็นผู้สร้าง ใช้ลดราคาเฉพาะสินค้าของร้านค้าเอง**
 
-- เข้าสู่ [Seller Center]( https://seller.cafn.co)
+- เข้าสู่ [Seller Center](https://office.panich.co)
 - ล็อกอินด้วยบัญชีร้านค้าของคุณ > เลือก Marketing > เลือก Discount Coupon
 - เข้าสู่หน้า Shop Discount Coupon 
 

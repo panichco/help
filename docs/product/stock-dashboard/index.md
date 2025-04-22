@@ -3,10 +3,10 @@ sidebar_position: 3
 slug: stock-dashboard
 title: สต๊อกสินค้า (Stock Dashboard)
 last_update:
-  date: 2025-04-07
+  date: 2025-04-22
 ---
 
-- เข้าสู่ [Seller Center]( https://seller.cafn.co)
+- เข้าสู่ [Seller Center](https://office.panich.co)
 - ล็อกอินด้วยบัญชีร้านค้าของคุณ > เลือก Stocks > เลือก Stock Dashboard
 
 แสดงรายการสินค้าและสต๊อก ได้แก่

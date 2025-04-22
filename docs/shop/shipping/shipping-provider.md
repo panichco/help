@@ -3,13 +3,13 @@ sidebar_position: 2
 slug: shipping-provider
 title: ผู้ให้บริการขนส่ง (Shipping Provider)
 last_update:
-  date: 2025-04-07
+  date: 2025-04-22
 ---
 :::info
 An upcoming new version will be released soon
 :::
 
-- เข้าสู่ [Seller Center]( https://seller.cafn.co) > ล็อกอินด้วยบัญชีร้านค้าของคุณ 
+- เข้าสู่ [Seller Center](https://office.panich.co) > ล็อกอินด้วยบัญชีร้านค้าของคุณ 
 - เลือก Setting > เลือก Shop > เลือก ร้านค้า
 - ไปที่หัวข้อ **Shipping**
 

@@ -3,7 +3,7 @@ sidebar_position: 2
 slug: discount-promotion
 title: ลดราคาสินค้า (Discount Promotion)
 last_update:
-  date: 2025-04-07
+  date: 2025-04-22
 ---
 
 :::info
@@ -12,7 +12,7 @@ An upcoming new version will be released soon
 
 **ลดราคาสินค้า คือ การลดราคาสินค้าลงจากราคาเต็ม โดยจะแสดงตัวเลขลดราคาที่สินค้าเพื่อส่งเสริมการขาย และอนุญาตให้แสดงสินค้านั้นในส่วน Promotion บนหน้าแรก รวมถึงการทำการตลาดของแพลตฟอร์ม**
 
-- เข้าสู่ [Seller Center]( https://seller.cafn.co)
+- เข้าสู่ [Seller Center](https://office.panich.co)
 - ล็อกอินด้วยบัญชีร้านค้าของคุณ > เลือก Marketing > เลือก Discount Promotion
 - เข้าสู่หน้า Discount Promotions
 

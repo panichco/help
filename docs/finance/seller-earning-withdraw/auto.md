@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: ถอนเงินอัตโนมัติ (Auto Withdraw)
 last_update:
-  date: 2025-04-07
+  date: 2025-04-22
 ---
 
 :::info
