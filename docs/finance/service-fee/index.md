@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: ค่าบริการ (Service Fee)
 last_update:
-  date: 2025-04-17
+  date: 2025-04-22
 ---
 
 

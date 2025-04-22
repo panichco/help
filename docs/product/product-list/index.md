@@ -3,10 +3,10 @@ sidebar_position: 2
 slug: product-list
 title: รายการสินค้า (Product List)
 last_update:
-  date: 2025-04-07
+  date: 2025-04-22
 ---
 
-- เข้าสู่ [Seller Center]( https://seller.cafn.co) 
+- เข้าสู่ [Seller Center](https://office.panich.co) 
 - ล็อกอินด้วยบัญชีร้านค้าของคุณ > เลือก Products > เลือก Product List
 
 แสดงสถานะต่าง ๆ ของรายการสินค้า ได้แก่
