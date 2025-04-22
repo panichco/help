@@ -3,35 +3,30 @@ sidebar_position: 1.5
 slug: whats-new
 title: มีอะไรใหม่ (What's New!)
 last_update:
-  date: 2025-04-14
+  date: 2025-04-21
 ---
 ## V2.0.0
-2025-04-14
+2025-04-21
 
-### Updated
+### Updated UI
 - Add/Edit Product
-- Product List
-- Stock Management
-- Product Attributes
-- Product Photos
-- Shop Customer (SC) Program - Low Commission Fee
-
-### Deactivate
-- Roast-to-Order (RTO) Program
-- Green Bean Product Listings
+- Product List & Stock Management
+- Product Attributes & Photos
 - Shipping Provider Selection
 
-### New!
-- Expanded Product Categories
-	- Drip bag
-	- Coffee capsule
-- Brand authorization type
+### Migrated Features
+- Roast-to-Order Program → Moved to product delivery time options
+- Product Green Bean → This feature has been removed, coffee attribute can  be set directly via product attribute
+- Shipping Provider Selection → Seller can now set preferred or banned shipping provider.
+
+### New Features!
+- Add New Categories Support → Drip Bag, Coffee Capsule and many more soon
+- Brand Authorization
 - Delivery Time Options
-	- Ready to ship (1-3 days)
-	- Ship within N days (4-45 days)
-	- Schedule shipping 
-- Inventory Tracking
-    - Track or Untrack Product Inventory
-- Product Variants and SKUs
-- Package Size Details
-- Preferred and Banned shipping providers
+	- Ready to Ship (1–3 Days)
+	- Ship within N Days (4–45 Days)
+	- Scheduled Shipping (e.g. Ship every Monday)
+- Track/Untrack Inventory
+- Product Variants & SKUs
+- Package Size
+- Preferred/Banned Shipping Providers
