@@ -1,6 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+
+
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -31,36 +32,44 @@ const config: Config = {
     locales: ['en'],
   },
 
-  presets: [
+  plugins: [
     [
-      'classic',
+      '@docusaurus/plugin-content-docs',
       {
-        docs: {
-          sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
-        theme: {
-          customCss: './src/css/custom.css',
-        },
-      } satisfies Preset.Options,
+        path: 'docs',
+        routeBasePath: 'docs',
+        sidebarPath: './sidebars.ts',
+        showLastUpdateTime: true,
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'manual',
+        path: 'manual',
+        routeBasePath: 'manual',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-pages',
+      {
+
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        path: 'blog',
+        onInlineTags: 'warn',
+        onInlineAuthors: 'warn',
+        onUntruncatedBlogPosts: 'warn',
+      },
+    ],
+    [
+      '@docusaurus/theme-classic',
+      {
+        customCss: './src/css/custom.css',
+      }
     ],
   ],
 
@@ -68,9 +77,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'panich.co',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'panich.co',
         src: 'img/logo.svg',
       },
       items: [
@@ -78,60 +87,34 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        {to: '/blog', label:"Blog", position: 'left'},
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Marketplace',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'cafn.co',
+              href: 'https://cafn.co',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Office',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'office.panich.co',
+              href: 'https://office.panich.co',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Caffeine Co., Ltd.`,
     },
     prism: {
       theme: prismThemes.github,
