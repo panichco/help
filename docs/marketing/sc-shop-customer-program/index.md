@@ -3,8 +3,10 @@ sidebar_position: 1
 slug: shop-customer
 title: โปรแกรมลูกค้าของร้าน Shop Customer Program (SC)
 last_update:
-  date: 2025-04-17
+  date: 2025-04-24
 ---
+
+![sc-shop-customer-program](./img/sc-program.jpg)
 
 ## Shop Customer Program
 คือ **โปรแกรมการขายแบบค่าคอมมิชชันต่ำ** เกิดจากคำสั่งซื้อของลูกค้า ที่มีสถานะ Shop Customer ของร้านนั้น
