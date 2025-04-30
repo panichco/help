@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: hello-sellers
 title: สวัสดีผู้ขาย (Hello! Sellers)
 last_update:
-  date: 2025-04-07
+  date: 2025-04-29
 ---
 
 **cafnco - Coffee Market for Coffee People**
@@ -13,3 +13,11 @@ last_update:
 เราให้บริการในรูปแบบมาร์เก็ตเพลส รองรับทั้งฝั่งผู้ซื้อและผู้ขาย ผ่านระบบ "Panich.co" หรือ "พาณิช" ที่เราพัฒนาขึ้นเอง สามารถอัพโหลดสินค้าเพื่อลงขาย รับชำระเงิน จัดการสต๊อก จัดการการขนส่ง จัดโปรโมชันทางการค้า และอื่น ๆ ตามมาตฐานการให้บริการแพลตฟอร์มมาร์เก็ตเพลส 
 
 นอกจากนี้ เรายังกำลังจะเปิดให้บริการเชื่อมต่อกับโดเมนของร้าน เพื่อสร้างเว็บไซต์ขายสินค้าของร้านเอง โดยใช้ระบบจัดการหลังบ้านที่มีมาตรฐานเดียวกัน
+
+
+**ค่าบริการ** - [Service Fee](docs/finance/service-fee/index.md)<br />
+**โปรแกรมค่าคอมมิชชันต่ำ** - [SC-Shop Customer Program](docs/marketing/sc-shop-customer-program/index.md)
+
+
+
+![about](./img/about.jpg)
