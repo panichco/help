@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-slug: shop-customer
 title: โปรแกรมลูกค้าของร้าน Shop Customer Program (SC)
 last_update:
   date: 2025-04-24

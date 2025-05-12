@@ -1,26 +1,39 @@
 ---
 tags: [releases]
-title: Releases - v2.0.0
+title: Releases
+---
+
+
+## V2.1.0
+2025-05-12
+
+The latest version contains bug fixes and performance improvements.
+
+**Updated**
+- Guest checkout
+- Stock dashboard
+
+
 ---
 
 ## V2.0.0
 
 2025-04-21
 
-### Updated UI
+**Updated UI**
 
 - Add/Edit Product
 - Product List & Stock Management
 - Product Attributes & Photos
 - Shipping Provider Selection
 
-### Migrated Features
+**Migrated Features**
 
 - Roast-to-Order Program → Moved to product delivery time options
 - Product Green Bean → This feature has been removed, coffee attribute can be set directly via product attribute
 - Shipping Provider Selection → Seller can now set preferred or banned shipping provider.
 
-### New Features!
+**New Features!**
 
 - Add New Categories Support → Drip Bag, Coffee Capsule and many more soon
 - Brand Authorization
