@@ -1,6 +1,5 @@
 ---
 sidebar_position: 2
-slug: discount-promotion
 title: ลดราคาสินค้า (Discount Promotion)
 last_update:
   date: 2025-04-22
@@ -16,14 +15,15 @@ An upcoming new version will be released soon
 - ล็อกอินด้วยบัญชีร้านค้าของคุณ > เลือก Marketing > เลือก Discount Promotion
 - เข้าสู่หน้า Discount Promotions
 
-## รายการลดราคาสินค้า (Discount Promotions List) 
+## รายการลดราคาสินค้า (Discount Promotions List)
+
 แสดงรายการลดราคาสินค้า และสถานะต่าง ๆ
 
-## สร้างการลดราคาสินค้า (+Add Discount Promotion) 
+## สร้างการลดราคาสินค้า (+Add Discount Promotion)
 
 - เลือกปุ่ม + Add Discount Promotion > เข้าสู่หน้า New Discount Promotion
 
-**รายละเอียดต่าง ๆ** 
+**รายละเอียดต่าง ๆ**
 
 **Title**<br />
 ชื่อโปรโมชัน ไม่แสดงให้ลูกค้าเห็น
@@ -31,8 +31,8 @@ An upcoming new version will be released soon
 **Priority**<br />
 ลำดับการใช้โปรโมชัน 1-10 โดยตัวเลขมากกว่าจะถูกแสดงก่อนเสมอ หากมีการใช้โปรโมชันทับซ้อนบนสินค้าเดียวกัน
 
-*ตัวอย่าง*<br />
-สินค้า A **Priority 2** ลด 50% ในวันที่ 1-10<br /> 
+_ตัวอย่าง_<br />
+สินค้า A **Priority 2** ลด 50% ในวันที่ 1-10<br />
 สินค้า A **Priority 1** ลด 20 บาท ในวันที่ 1-30<br />
 สินค้า A **Priority 3** ลด 80% ในวันที่ 15
 
@@ -41,19 +41,22 @@ An upcoming new version will be released soon
 ในวันที่ 11-14 และ 16-30 สินค้า A จะแสดงราคาลด 20 บาท
 
 **Apply On**<br />
-- Product Code - ใช้เฉพาะสินค้าบางรายการในร้านเท่านั้น *ต้องเพิ่มรายการสินค้าในช่อง Product Code*
+
+- Product Code - ใช้เฉพาะสินค้าบางรายการในร้านเท่านั้น _ต้องเพิ่มรายการสินค้าในช่อง Product Code_
 
 **Valid Period**<br />
 ช่วงเวลาเปิดใช้งาน
 
 **Discount Scheme**<br />
-- Discount Percentage - ลดราคาเป็นเปอร์เซนต์ เช่น 20% 
-- Discount Amount - ลดราคาเป็นจำนวนบาท เช่น 20 บาท 
+
+- Discount Percentage - ลดราคาเป็นเปอร์เซนต์ เช่น 20%
+- Discount Amount - ลดราคาเป็นจำนวนบาท เช่น 20 บาท
 - Rate - แสดงตัวเลขราคานี้ เช่น 20 บาท
 
 :::warning
-โปรดระวังการลดแบบ Rate บนสินค้าที่ราคาต่างกัน 
+โปรดระวังการลดแบบ Rate บนสินค้าที่ราคาต่างกัน
 :::
 
 ## ยกเลิกใช้งาน (Disable)
+
 เข้าสู่หน้าโปรโมชันที่ต้องการยกเลิก > เลือก Disable > Save

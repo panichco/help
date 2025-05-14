@@ -1,23 +1,24 @@
 ---
 sidebar_position: 2
-slug: product-list
 title: รายการสินค้า (Product List)
 last_update:
   date: 2025-04-22
 ---
 
-- เข้าสู่ [Seller Center](https://office.panich.co) 
+- เข้าสู่ [Seller Center](https://office.panich.co)
 - ล็อกอินด้วยบัญชีร้านค้าของคุณ > เลือก Products > เลือก Product List
 
 แสดงสถานะต่าง ๆ ของรายการสินค้า ได้แก่
 
 **สต๊อก (Stock) แสดงสถานะของสินค้าในสต๊อก**
+
 - In Stock - มีสินค้าในสต๊อก
 - Low Stock - สินค้าในสต๊อกเหลือน้อย ควรตรวจสอบ
 - Out of Stock - สินค้าหมด ควรเพิ่มสต๊อก
 - Always Available - มีสินค้านี้เสมอ โดยไม่ต้องใส่จำนวนสต๊อก
 
 **สถานะสินค้าหน้าร้าน (Status)**
+
 - Live - สินค้าที่แสดงที่หน้าร้าน
 - Disable - สินค้าที่ถูกปิดการขาย
 - Draft - สินค้าที่บันทึกแบบร่าง

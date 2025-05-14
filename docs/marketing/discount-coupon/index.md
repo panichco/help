@@ -1,6 +1,5 @@
 ---
 sidebar_position: 3
-slug: discount-coupon
 title: คูปองส่วนลดร้านค้า (Discount Coupon)
 last_update:
   date: 2025-04-22
@@ -14,21 +13,21 @@ An upcoming new version will be released soon
 
 - เข้าสู่ [Seller Center](https://office.panich.co)
 - ล็อกอินด้วยบัญชีร้านค้าของคุณ > เลือก Marketing > เลือก Discount Coupon
-- เข้าสู่หน้า Shop Discount Coupon 
+- เข้าสู่หน้า Shop Discount Coupon
 
-## รายการคูปองส่วนลดร้านค้า (Shop Discount Coupon List) 
+## รายการคูปองส่วนลดร้านค้า (Shop Discount Coupon List)
+
 แสดงรายการคูปองส่วนลดร้านค้า และสถานะต่าง ๆ
 
-## สร้างคูปองส่วนลดร้านค้า (+Add Shop Discount Coupon) 
+## สร้างคูปองส่วนลดร้านค้า (+Add Shop Discount Coupon)
 
 - เลือกปุ่ม + Add Shop Discount Coupon เมื่อต้องการสร้างคูปอง > เข้าสู่หน้า New Shop Discount Coupon
 
-
-**รายละเอียดต่าง ๆ** 
+**รายละเอียดต่าง ๆ**
 **Coupon Code**<br />
 โค้ดส่วนลด ที่ลูกค้านำไปวางในช่อง Shop Voucher เพื่อลดราคาสินค้า
 ประกอบด้วยตัวอักษรภาษาอังกฤษพิมพ์เล็ก ตัวเลข และขีด (-) เท่านั้น
-เช่น love-coffee 
+เช่น love-coffee
 
 **Title**<br />
 ชื่อแคมเปญ หรือข้อความที่จะปรากฏแก่ลูกค้า ขณะใช้โค้ด
@@ -36,7 +35,8 @@ An upcoming new version will be released soon
 
 **Apply On**<br />
 เลือกการใช้คูปอง
-- Product Code - ใช้เฉพาะสินค้าบางรายการในร้านเท่านั้น *ต้องเพิ่มรายการสินค้าในช่อง Product Code*
+
+- Product Code - ใช้เฉพาะสินค้าบางรายการในร้านเท่านั้น _ต้องเพิ่มรายการสินค้าในช่อง Product Code_
 - Order - ใช้ลดราคาทั้งออเดอร์
 
 **Popup Detail** - ยังไม่เปิดใช้บริการ<br />
@@ -46,23 +46,27 @@ An upcoming new version will be released soon
 ช่วงเวลาเปิดใช้งานคูปอง
 
 **Discount Scheme**
+
 - Discount Percentage - ลดราคาเป็นเปอร์เซนต์ เช่น 20% สูงสุด 100 บาท
 - Discount Amount - ลดราคาเป็นจำนวนบาท เช่น 20 บาท (เฉพาะ Apply On : Order)
 
 **Discount Condition**
+
 - None - ใช้คูปองได้ทุกกรณี
 - Quantity - ใช้คูปองได้ตามจำนวนขั้นต่ำที่กำหนด เช่น ซื้อ 2 ชิ้นขึ้นไป
 - Amount - ใช้คูปองได้ตามราคาขั้นต่ำที่กำหนด เช่น ซื้อสินค้ารวม 500 บาทขึ้นไป
 
 **Coupon Type**<br />
 จำนวนการใช้งาน จนกว่าจะปิดการใช้งานหรือหมดเวลา
+
 - Limited Claims - ระบุจำนวนครั้ง
 - Unlimited Claim - ไม่จำกัดจำนวนครั้ง
 - Unique Coupon - แรนดอมโค้ดตามจำนวนที่ระบุ โดยที่โค้ดไม่ซ้ำกัน (คัดลอกโค้ดได้จากไฟล์ที่ปรากฏ)
 
 :::tip
 ปัจจุบัน ลูกค้าสามารถเลือกใช้ **คูปองส่วนลดร้านค้า** หรือ **คูปองส่วนลดค่าส่ง** ได้อย่างใดอย่างหนึ่ง แต่สามารถใช้ร่วมกับคูปองส่วนลดของแพลตฟอร์มได้
-::: 
+:::
 
 ## ยกเลิกใช้งานคูปอง (Disable)
-เข้าสู่หน้าคูปองที่ต้องการยกเลิก > เลือก Disable > ระบุเหตุผล (ข้อความจะแสดงต่อผู้ใช้คูปอง) > Update  
+
+เข้าสู่หน้าคูปองที่ต้องการยกเลิก > เลือก Disable > ระบุเหตุผล (ข้อความจะแสดงต่อผู้ใช้คูปอง) > Update
