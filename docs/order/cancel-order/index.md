@@ -1,6 +1,5 @@
 ---
 sidebar_position: 3
-slug: cancel-order
 title: ยกเลิกคำสั่งซื้อ (Cancel Order)
 last_update:
   date: 2025-04-07

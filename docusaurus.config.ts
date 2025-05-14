@@ -59,7 +59,19 @@ const config: Config = {
     [
       '@docusaurus/plugin-content-blog',
       {
-        path: 'blog',
+        path: 'releases',
+        routeBasePath: 'releases',
+        onInlineTags: 'warn',
+        onInlineAuthors: 'warn',
+        onUntruncatedBlogPosts: 'warn',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'announcements',
+        path: 'announcements',
+        routeBasePath: 'announcements',
         onInlineTags: 'warn',
         onInlineAuthors: 'warn',
         onUntruncatedBlogPosts: 'warn',
@@ -89,7 +101,16 @@ const config: Config = {
           position: 'left',
           label: 'Docs',
         },
-        {to: '/blog', label:"Blog", position: 'left'},
+        {
+          to: '/announcements',
+          label:"Announcements",
+          position: 'left'
+        },
+        {
+          to: '/releases',
+          label:"Releases",
+          position: 'left'
+        },
       ],
     },
     footer: {
