@@ -10,7 +10,7 @@ last_update:
 1. ค่าคอมมิชชันมาร์เก็ตเพลส (Marketplace Commission Fee)
 2. ค่าธรรมเนียมการชำระเงิน (Payment fee)
 
-![service fee](./img/service-fee-2025-04-17-2.png)
+
 
 
 ## 1. ค่าคอมมิชชันมาร์เก็ตเพลส (Marketplace Commission Fee)
@@ -20,6 +20,12 @@ last_update:
 	- ลิงก์หน้าร้าน (Shop Link)
 	- ลิงก์หน้าสินค้า (Product Link)
 	- ลิงก์จากการค้นหาบนกูเกิล (Google-SEO)
+
+
+![service fee](./img/service-fee-2025-04-17-3.jpg)
+![service fee structure](./img/service-fee-structure-1.jpg)
+
+
 
 ### 1.1 คำสั่งซื้อทั่วไป (General Order)  
 คำสั่งซื้อทั่วไป คือ คำสั่งซื้อที่เกิดจากลูกค้าที่ **เข้าสู่แพลตฟอร์มจากแพลตฟอร์มเอง** ดังนี้ 
