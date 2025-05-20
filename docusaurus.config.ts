@@ -33,6 +33,7 @@ const config: Config = {
   },
 
   plugins: [
+    "./src/plugins/tailwind-config.js",
     [
       '@docusaurus/plugin-content-docs',
       {
@@ -53,7 +54,8 @@ const config: Config = {
     [
       '@docusaurus/plugin-content-pages',
       {
-
+        path: 'src/pages',
+        mdxPageComponent: '@theme/MDXPage',
       },
     ],
     [

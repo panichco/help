@@ -1,3 +1,7 @@
+For those who've come across this repo, this code sucks to the bone; I'll clean it up someday.
+
+---
+
 npm start
 Test
 
