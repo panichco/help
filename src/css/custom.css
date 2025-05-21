@@ -120,8 +120,26 @@
   body {
     @apply bg-background text-foreground;
   }
+    
+  /* Adding back list styling */
+  ul {
+    @apply list-disc list-outside;
+  }
+  ol {
+    @apply list-decimal list-outside;
+  }
+  
+  /* Nested lists styling */
+  ul ul,
+  ol ul {
+    @apply list-disc;
+  }
+  
+  ul ol,
+  ol ol {
+    @apply list-decimal;
+  }
 }
-
 
 /**
  * Any CSS included here will be global. The classic template
