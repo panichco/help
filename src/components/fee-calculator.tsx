@@ -8,7 +8,7 @@ import * as CalLine from './prim.fee';
 
 export default function FeeCalculator() {
   const paymentProcessingFeeRate = {
-    "QR PromptPay": 0.01,
+    "QR PromptPay": 0.02,
     "Credit Card": 0.03,
     "Line Pay": 0.03,
     "Shopee Pay": 0.03
@@ -112,7 +112,7 @@ export default function FeeCalculator() {
                 <SelectValue placeholder="Select payment method" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="QR PromptPay">QR PromptPay | 1% + VAT</SelectItem>
+                <SelectItem value="QR PromptPay">QR PromptPay | 2% + VAT</SelectItem>
                 <SelectItem value="Credit Card">Credit Card | 3% + VAT</SelectItem>
                 <SelectItem value="Line Pay">Line Pay | 3% + VAT</SelectItem>
                 <SelectItem value="Shopee Pay">Shopee Pay | 3% + VAT</SelectItem>
