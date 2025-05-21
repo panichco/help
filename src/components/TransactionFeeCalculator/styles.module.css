@@ -1,0 +1,153 @@
+/* styles.module.css */
+.calculatorContainer {
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  margin: 20px auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: #333;
+}
+
+.calculatorContainer h2 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.calculatorContainer > p {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 25px;
+}
+
+.inputGroup {
+  margin-bottom: 20px;
+}
+
+.inputGroup label {
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.selectInput,
+.numberInput {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 16px;
+  box-sizing: border-box;
+  background-color: #f9f9f9;
+}
+
+.selectInput {
+  appearance: none; /* For custom arrow, if desired */
+  background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M5%208l5%205%205-5z%22%20fill%3D%22%23666%22/%3E%3C/svg%3E');
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 16px;
+  padding-right: 30px; /* Make space for arrow */
+}
+
+.amountInputContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.numberInput {
+ padding-right: 80px; /* Space for the currency display */
+}
+
+.amountDisplay {
+  position: absolute;
+  right: 12px;
+  color: #666;
+  font-size: 16px;
+}
+
+
+.feeBreakdown {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 30px;
+  border: 1px solid #eee;
+}
+
+.feeBreakdown h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.feeRow {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  font-size: 14px;
+  border-bottom: 1px solid #eee;
+}
+
+.feeRow:first-of-type { /* Fee Type / Amount header */
+  font-weight: 600;
+  color: #555;
+}
+.feeRow:last-of-type {
+  border-bottom: none;
+}
+
+.feeRow span:last-child {
+  font-weight: 500;
+}
+
+.totalRow {
+  font-weight: bold;
+  font-size: 16px;
+  padding-top: 15px;
+  margin-top: 5px;
+  border-top: 2px solid #ddd; /* Thicker line for total */
+  border-bottom: none;
+}
+
+.youReceiveSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f0f4ff; /* Light blueish background */
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.youReceiveText {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 0 4px 0;
+}
+
+.feePercentageText {
+  font-size: 12px;
+  color: #555;
+  margin: 0;
+}
+
+.youReceiveAmount {
+  font-size: 28px;
+  font-weight: bold;
+  color: #1a2b4d; /* Dark blue */
+  margin: 0;
+}
+
+/* Focus states for better accessibility */
+.selectInput:focus,
+.numberInput:focus {
+  outline: none;
+  border-color: #007bff; /* Example focus color */
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
