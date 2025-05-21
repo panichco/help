@@ -8,7 +8,7 @@ last_update:
 ![sc-shop-customer-program](./img/sc-program.jpg)
 
 :::info
-[Service Fee Calculator](/fees)
+โปรแกรมคำนวณค่าธรรมเนียม > [**Service Fee Calculator**](/fees)
 :::
 
 ## Shop Customer Program

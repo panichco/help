@@ -12,7 +12,7 @@ last_update:
 3. ค่าธรรมเนียมการชำระเงิน (Payment Fee)
 
 :::info
-ตัวอย่างการคำนวณค่าธรรมเนียม > [**Service Fee Calculator**](/fees)
+โปรแกรมคำนวณค่าธรรมเนียม > [**Service Fee Calculator**](/fees)
 :::
 
 
